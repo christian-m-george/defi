@@ -6,6 +6,12 @@
   padding: 0;
 }
 
+html,
+body,
+#root {
+  height: 100%;
+}
+
 :root {
   --primary-blue: #008dff;
   --primary-purple: #6a00ff;

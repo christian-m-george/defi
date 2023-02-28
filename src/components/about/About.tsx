@@ -15,34 +15,34 @@ const About = () => {
       <div className="card-container">
         <div className="card">
           <AboutCard
-            icon={<SiHiveBlockchain />}
-            heading={"Reliable Tamper Proof Network"}
+            icon={<SiHiveBlockchain color="#f8f8f8" />}
+            heading={"Using the power of the Ethereum Network"}
             text={
-              "Use decentrilization, trusted nodes, premium data, and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract"
+              "Utilize lending powered by the trusted and proven Ethereum network."
             }
           />
         </div>
         <div className="card">
           <AboutCard
-            icon={<SiStrapi />}
+            icon={<SiStrapi color="#f8f8f8" />}
             heading={"Seamless connection to APIs"}
             text={
-              "Build on a flexible framework that can retrieve data from any API, connect with existing systems and integrate with any current or future blockchain"
+              "Functionality is powered by connections to trustworthy data sources, and can connect with existing systems and be expanded to integrate with any current or future blockchain"
             }
           />
         </div>
         <div className="card">
           <AboutCard
-            icon={<SiFsecure />}
+            icon={<SiFsecure color="#f8f8f8" />}
             heading={"Proven, ready-made solutions"}
             text={
-              "Integrate pre-built oracle solutions that already secure tens of billions in smart contract value for mearket-leading decentralized applications."
+              "Lending and borrowing is achieved through a robust smart contract that is running on the node backend."
             }
           />
         </div>
         <div className="card">
           <AboutCard
-            icon={<VscServerProcess  />}
+            icon={<VscServerProcess color="#f8f8f8" />}
             heading={"Secure off-chain computation"}
             text={
               "Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risks of manual interventions and centralized servers."

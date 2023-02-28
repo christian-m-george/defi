@@ -17,7 +17,7 @@ export const Navbar = (): JSX.Element => {
             <Link to="/">Community</Link>
           </li> */}
           <li className="nav-item">
-            <a href="/">About</a>
+            <a href="/">Home</a>
           </li>
           <li className="nav-item">
             <Link to="/defi" className="btn">

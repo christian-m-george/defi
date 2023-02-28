@@ -20,7 +20,9 @@
   font-size: 1.2rem;
   color: #f8f8f8;
 }
-
+.about p {
+  color: #f8f8f8;
+}
 .about .card-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
